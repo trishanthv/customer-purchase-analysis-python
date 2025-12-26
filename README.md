@@ -31,7 +31,10 @@ The goal is to understand customer buying behavior, identify high-value customer
 
 ## Screenshots
 ### Data Preview
-![Data Preview](screenshots/input_code.png)
+![Data Preview](screenshots/customers_data.png)
+
+### body of code
+![body of code](screenshots/input_code.png)
 
 ### Bar Chart – Product Popularity
 ![Bar Chart](screenshots/output_bargraph.png)
