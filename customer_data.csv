@@ -1,0 +1,7 @@
+CustomerID,Name,Product,Quantity,Price,Date
+1,Alice,Laptop,1,50000,2025-12-01
+2,Bob,Mouse,2,500,2025-12-02
+1,Alice,Keyboard,1,1500,2025-12-03
+3,Charlie,Monitor,1,7000,2025-12-04
+2,Bob,Laptop,1,50000,2025-12-05
+4,David,Mouse,3,500,2025-12-06
