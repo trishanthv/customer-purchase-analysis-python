@@ -31,7 +31,7 @@ The goal is to understand customer buying behavior, identify high-value customer
 
 ## Screenshots
 ### Data Preview
-![Data Preview](screenshots/customers_data.png)
+![Data Preview](screenshots/customer_data.png)
 
 ### body of code
 ![body of code](screenshots/input_code.png)
